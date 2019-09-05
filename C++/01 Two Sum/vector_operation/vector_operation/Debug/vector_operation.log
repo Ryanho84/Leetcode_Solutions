@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  vector_operation.cpp
+f:\work\open courses\leetcode_solutions\c++\01 two sum\vector_operation\vector_operation\vector_operation.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\01 two sum\vector_operation\vector_operation\vector_operation.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\01 two sum\vector_operation\vector_operation\vector_operation.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\01 two sum\vector_operation\vector_operation\vector_operation.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\01 two sum\vector_operation\vector_operation\vector_operation.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+  vector_operation.vcxproj -> F:\Work\open courses\Leetcode_Solutions\C++\01 Two Sum\vector_operation\Debug\vector_operation.exe
+  vector_operation.vcxproj -> F:\Work\open courses\Leetcode_Solutions\C++\01 Two Sum\vector_operation\Debug\vector_operation.pdb (Full PDB)

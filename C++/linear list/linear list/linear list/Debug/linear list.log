@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  linear list.cpp
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(175): warning C4005: “INT_MAX”: 宏重定义
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\limits.h(35): note: 参见“INT_MAX”的前一个定义
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(181): warning C4018: “>”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(194): warning C4018: “>”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(203): warning C4018: “<”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(221): warning C4018: “<”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(228): warning C4018: “<”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(241): warning C4018: “>=”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(242): warning C4018: “>=”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(245): warning C4018: “<”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(246): warning C4018: “<”: 有符号/无符号不匹配
+f:\work\open courses\leetcode_solutions\c++\linear list\linear list\linear list\linear list.cpp(235): warning C4715: “Solution_4th::findtheKthNum_2”: 不是所有的控件路径都返回值
+  linear list.vcxproj -> F:\Work\open courses\Leetcode_Solutions\C++\linear list\linear list\Debug\linear list.exe
+  linear list.vcxproj -> F:\Work\open courses\Leetcode_Solutions\C++\linear list\linear list\Debug\linear list.pdb (Full PDB)
