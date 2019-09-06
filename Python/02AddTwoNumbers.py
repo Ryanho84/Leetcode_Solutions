@@ -22,6 +22,7 @@ class listNode:
         self.next = None
 
 class Solution:
+    #定义方法，指定参数类型及返回值类型
     def addTowNumbers(self, l1:listNode, l2:listNode) ->listNode:
         """
         :type l1: listNode
@@ -75,7 +76,9 @@ l2 = s1.initList(data2)
 #s1.printList(l1)
 result = s1.addTowNumbers(l1,l2)
 s1.printList(result)
+#print(s1.linkListLength(l1))
             
+
 
 
     
